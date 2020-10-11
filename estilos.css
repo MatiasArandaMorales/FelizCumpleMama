@@ -1,0 +1,110 @@
+/* Comunes */
+h1{
+    background-color:#a37eba;
+    text-align: center;
+    width: 1000px;
+    color: #f6f6f6;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    margin: 30px;
+}
+
+p{
+    font-size: 25px;
+    margin: 60px;
+}
+
+
+/*Index*/
+.texto-centro{
+    text-align: center;
+    margin: 100px;
+}
+
+.link-menu{
+    text-align: center;
+    height: 2rem;    
+    background-color: #ff4b5c;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-menu a{
+    text-decoration: none;
+    text-align: center;
+    color: #eeeeee;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+/*Historia*/
+.volver{
+    background: #ff4b5c;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 50px;
+    border-radius: 10px;
+}
+
+.ph{
+    background: #686d76;
+    color: #ffffff;
+}
+
+.ih{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Saludos*/ 
+.salu{
+    background: #ff4b5c;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 50px;
+}
+.video{
+    width: 30%;
+    height: 300px;
+}
+/*pareja*/
+.imgs{
+    width: 450px;
+    height: 300px;
+}
+/*tu*/
+.tu{
+    font-size: 40px;
+    background: #864c80;
+    color: #ffffff;
+}
+.itu{
+    width: 570px;
+    height: 550px;
+}
+.dt{
+    font-size: 80px;
+    background: yellow;
+    margin: 100px;
+}
+
+.tuPareja{
+    background-color: rosybrown;
+}
+
+.tuPareja div{
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+}
+
+.tuPareja p{
+    color: rgb(5, 5, 36);
+}
